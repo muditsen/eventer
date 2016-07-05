@@ -9,7 +9,7 @@ allprojects {
     repositories {
         jcenter()
         maven {
-            url 'https://dl.bintray.com/iammuditsen/maven/'
+            url 'https://dl.bintray.com/iammuditsen/muditse.projects/'
         }
     }
 }
